@@ -1,10 +1,10 @@
-# Medical Cost Prediction Project
+# Restaurant Tip Prediction Project
 
-This repo contains our team's work for the ML challenge, predicting medical costs.
+This repo contains our team's work for the ML challenge, predicting restaurant tips.
 
 ## What's in here?
 
-- **`insurance.csv`**: The dataset we used (from Kaggle's Medical Cost Personal Datasets).
+- **`tips.csv`**: The dataset we used (from Seaborn's dataset repository).
 - **`Analysis_Notebook.ipynb`**: The main Jupyter Notebook where we load the data, clean it, do our EDA, build the model, and summarize our findings.
 - **`Presentation_Outline.md`**: A quick slide-by-slide outline for our group presentation.
 - **`Presentation_Script.md`**: The script we'll use when presenting.
