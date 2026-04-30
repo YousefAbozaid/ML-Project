@@ -1,23 +1,24 @@
-# ML Project Deliverable
+# Medical Cost Prediction Project
 
-This repository contains the deliverables for the Data Analysis and Machine Learning challenge.
+This repo contains our team's work for the ML challenge, predicting medical costs.
 
-## Contents
+## What's in here?
 
-- **`insurance.csv`**: The dataset used for the project (Medical Cost Personal Datasets).
-- **`Analysis_Notebook.ipynb`**: The Jupyter Notebook containing all 5 implementation steps (Loading, Cleaning, EDA, Modeling, and Findings Report).
-- **`Presentation_Outline.md`**: A slide-by-slide outline designed for the group (5-7 students) to present their thoughts and findings.
+- **`insurance.csv`**: The dataset we used (from Kaggle's Medical Cost Personal Datasets).
+- **`Analysis_Notebook.ipynb`**: The main Jupyter Notebook where we load the data, clean it, do our EDA, build the model, and summarize our findings.
+- **`Presentation_Outline.md`**: A quick slide-by-slide outline for our group presentation.
+- **`Presentation_Script.md`**: The script we'll use when presenting.
 
-## Setup Instructions
+## How to run it
 
-To view and run the code in the Jupyter Notebook locally:
+If you want to poke around the notebook on your own machine:
 
-1. Create a virtual environment (optional but recommended).
-2. Install the required dependencies:
+1. Setting up a virtual environment is a good idea.
+2. Install the stuff we used:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn jupyter
    ```
-3. Launch Jupyter Notebook:
+3. Fire up Jupyter:
    ```bash
    jupyter notebook Analysis_Notebook.ipynb
    ```
